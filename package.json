@@ -14,7 +14,16 @@
   "author": "Yínerson Urina <yi.ur@hotmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dareth24/curso-NPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dareth24/curso-NPM/issues"
+  },
+  "homepage": "https://github.com/Dareth24/curso-NPM#readme"
 }
